@@ -1,0 +1,35 @@
+.navbar {
+    background-color: rgb(114, 202, 230);    
+}
+
+.quemsomos{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    font-family: 'Comic Sans MS';
+}
+
+.parceiros{
+    background-color: rgb(214, 147, 116);
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.servicos{
+    padding-bottom: 50px;
+    padding-top : 10px;
+    background-color: antiquewhite; 
+    text-align: justify;
+    
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
